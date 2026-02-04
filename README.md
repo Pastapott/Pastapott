@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pastapott
-- 👀 I’m interested in coding, ethical hacking and cyber security
-- 🌱 I’m currently learning c, c++, java
-- 📫 How to reach me grimesollie9@gmail.com
+- Hi, I’m @Pastapott
+- I’m interested in coding, ethical hacking and cyber security
+- I’m currently learning c, c++, java, Python
+- How to reach me: grimesollie9@gmail.com
